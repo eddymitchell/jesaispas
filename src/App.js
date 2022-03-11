@@ -3,7 +3,7 @@ import { Canvas } from '@react-three/fiber'
 import { Environment, OrbitControls } from '@react-three/drei'
 
 import Model from './Model'
-
+//coucou
 export default function App() {
   const macamera = [25,25,70]
   const popup =() => {
