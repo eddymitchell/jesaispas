@@ -19,9 +19,18 @@ code {
 }
 
 .titre {
-  position: absolute;
   color: pink;
-  z-index: 1;
   right: 50%;
   font-size: 1.5em ;
+  position:fixed
+}
+
+.calquedudessus {
+  z-index: 1;
+  position:absolute
+}
+
+.logo{
+  position:fixed;
+  width:5em
 }
